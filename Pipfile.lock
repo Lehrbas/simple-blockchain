@@ -1,0 +1,22 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "9c4384754c0c0e8a8019c097ae35a4580a5303004b6dc27f7bfb209401ae0cf8"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "flask": "==1.1.2",
+            "python_version": "3.9",
+            "requests": "==1.25.11"
+        },
+        "sources": [
+            {
+                "name": "simple-blockchain",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {}
+}
